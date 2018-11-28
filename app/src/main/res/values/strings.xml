@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">weeklyTask</string>
+    <string name="register">No Account? Register Now</string>
+    <string name="google">Google</string>
+    <string name="welcome">Welcome to PSD Gang</string>
+    <string name="facebook">Facebook</string>
+    <string name="login">Login</string>
+    <string name="logoDescription">appLogo</string>
+    <string name="or">OR</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
